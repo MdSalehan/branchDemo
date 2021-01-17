@@ -1,3 +1,9 @@
 temp 3
 changes done for version3
+<<<<<<< HEAD
 sgjhcde
+=======
+start at newBranch1
+againiqci
+jchjdsbhbbbbbbb
+>>>>>>> newbranch1
